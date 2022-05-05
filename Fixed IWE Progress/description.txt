@@ -1,0 +1,1 @@
+adjusted progress graphs for the image wide estimator go here
