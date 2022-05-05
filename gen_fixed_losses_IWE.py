@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#graph fixing. The IWE's losses have a ceiling that only about 0.194. This is
+#graph fixing. The IWE's losses have a floor that only about 0.194. This is
 #because of the dead (black) normals in the GT normal maps. To correct for this
 #and make comparisons with the PWE's losses, we should multiply IWE's losses by
 #1/0.194 
