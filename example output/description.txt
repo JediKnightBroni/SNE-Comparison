@@ -1,1 +1,1 @@
-examples of the quality of predictions to be expected from IWE and PWE
+examples of the quality of predictions to be expected from IWE and PWE - IWE trained for 2500 iterations and PWE trained for 8000+ iterations
