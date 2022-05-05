@@ -1,4 +1,0 @@
-output images from runs of comparator go here. Output includes 
-1)ground truth normal maps for the test images
-2)normal maps predicted by PWE and IWE
-3)angular error maps for predictions made by PWE and IWE
