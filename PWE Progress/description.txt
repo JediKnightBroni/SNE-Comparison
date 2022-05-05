@@ -1,0 +1,1 @@
+progress graphs for the pixel-wise estimator go here
